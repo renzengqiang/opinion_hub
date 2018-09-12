@@ -1,0 +1,11 @@
+[basic]
+addr = ":12345"
+env = "development" # online conf should change it to "production"
+
+[database_master]
+host = "xx.xx.xx.xx"
+port = "1234"
+user = "user"
+pswd = "pswd"
+name = "db_name"
+
